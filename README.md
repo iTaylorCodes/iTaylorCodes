@@ -20,6 +20,8 @@ I'm currently enrolled in Springboard's Software Enigneer Career Track with an a
 
 Github Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTaylorCodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![iTaylorCodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=iTaylorCodes)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **iTaylorCodes/iTaylorCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
