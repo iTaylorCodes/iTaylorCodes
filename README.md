@@ -12,13 +12,13 @@ I'm currently enrolled in Springboard's Software Enigneer Career Track with an a
 
 ---
 
-🧰 Developer Toolbox
+🧰<b>Developer Toolbox</b>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="Jasmine logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku logo" width="50" height="50">
 
 ---
 
-Github Stats
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20px"><b>Github Stats</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTaylorCodes)](https://github.com/anuraghazra/github-readme-stats)[![iTaylorCodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=iTaylorCodes)](https://github.com/anuraghazra/github-readme-stats)
 
