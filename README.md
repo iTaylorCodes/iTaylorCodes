@@ -20,7 +20,7 @@ I'm currently enrolled in Springboard's Software Enigneer Career Track with an a
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="20px"><b>Github Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTaylorCodes)](https://github.com/anuraghazra/github-readme-stats)[![iTaylorCodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=iTaylorCodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTaylorCodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![iTaylorCodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=iTaylorCodes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **iTaylorCodes/iTaylorCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
