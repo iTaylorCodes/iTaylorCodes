@@ -6,9 +6,9 @@
 <a href="https://twitter.com/intent/follow?screen_name=theianmtaylor"><img src="https://img.shields.io/twitter/follow/theianmtaylor?style=social"></a>
 <a href="https://www.twitch.tv/ianmtaylor"><img src="https://img.shields.io/twitch/status/ianmtaylor?style=social"></a>
 
-I am a Full-Stack Software Engineer with a preference towards the front-end using React.js.
+I am a Full-Stack Software Developer with a preference towards the front-end using React.js.
 
-I'm currently enrolled in Springboard's Software Engineer Career Track with an approximate completion date of December 2021.
+I'm currently enrolled in Springboard's Software Engineer Career Track with an approximate completion date of February 2022.
 
 ---
 
