@@ -8,7 +8,7 @@
 
 I am a Full-Stack Software Developer with a preference towards the front-end using React.js.
 
-I'm currently enrolled in Springboard's Software Engineer Career Track with an approximate completion date of February 2022.
+I'm currently working in the role of Junior Software Engineer at Fanbyte.
 
 If you'd like to learn about my journey as a developer, feel free visit my portfolio site at https://itaylorcodes.surge.sh/
 
